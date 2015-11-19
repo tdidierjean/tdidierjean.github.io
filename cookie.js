@@ -1,7 +1,6 @@
 var d = new Date();
 var n = d.getHours();
 
-console.log(n);
 if (n == 16) {
   document.getElementById("cookie-status").innerHTML = 'YES!!';
 } else if (n == 15) {
