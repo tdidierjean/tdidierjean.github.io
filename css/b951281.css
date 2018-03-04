@@ -6741,7 +6741,7 @@ body {
 #confirmation {
   padding: 0;
   margin-bottom: -60px;
-  background: url('/bundles/resaboxregistration/images/bg-yellow.jpg') no-repeat;
+  background: url('/images/bg-yellow.jpg') no-repeat;
   height: 480px;
 }
 #confirmation #confirmation_text {
