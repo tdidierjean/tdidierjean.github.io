@@ -1,0 +1,6 @@
+/* Header navbar */
+@media screen and (min-width: 992px) {
+  div#header .navbar {
+    background: white;
+  }
+}
